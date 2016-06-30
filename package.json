@@ -1,0 +1,11 @@
+{
+  "name": "laravel-slug",
+  "version": "1.0.0",
+  "description": "Tries to mimick the slugs produced by Laravel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abe Fehr",
+  "license": "ISC"
+}
